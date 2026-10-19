@@ -66,7 +66,7 @@ Generate a JWT secret with: `node -e "console.log(require('crypto').randomBytes(
 - **Hardening included:** helmet, CORS allow-list, request body limit, auth rate limiting, bcrypt (12 rounds), ownership checks on every query.
 
  ## Screenshots
-   ![Dashboard](screenshots/dashboard.png)
+   - added few screenshots
 
 ## Deploying
 
